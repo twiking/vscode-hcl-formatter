@@ -1,3 +1,4 @@
+This is a fork of [fredwangwang/vscode-hcl-formatter](https://github.com/fredwangwang/vscode-hcl-formatter) to make it available as an extension at Open VSX.
 # HCL Format
 
 HCL Format helps to format Hashicorp Configuration Language, (.tf, .hcl) files. Just the standard format documentation key binding.
